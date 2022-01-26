@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 💻 I currently work as a senior systems administrator, focusing on infrastructure automation
 - 🌱 I’m currently attending Northwestern University's Full Stack Web Development boot camp
-- 💞️ I’m looking to network with other female devs and look for new opportunities as a developer
+- 💞️ I’m looking to network with other female devs
 - 📫 How to reach me: @jenniwritescode on Twitter
 
 <!---
