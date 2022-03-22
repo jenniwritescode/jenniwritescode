@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenni!
-- 👀 I’m interested in web development
+- 👀 I’m interested in back-end web development
 - 💻 I currently work as a senior systems administrator, focusing on infrastructure automation
 - 🌱 I’m currently attending Northwestern University's Full Stack Web Development boot camp
 - 💞️ I’m looking to network with other female devs
