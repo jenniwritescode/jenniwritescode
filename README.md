@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jenni!
-- 💻 I currently work as a senior site reliability engineer at a higher ed institution
 - 🌱 I’m working through a coding bootcamp to learn more about different frameworks and languages
 - 💰 I am interested in pay transparency and equality in tech
 - 💞️ I’m looking to network with other women in tech
