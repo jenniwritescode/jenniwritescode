@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jenni!
-- 👀 I’m interested in back-end web development
-- 💻 I currently work as a senior systems administrator, focusing on infrastructure automation
-- 🌱 I’m currently attending Northwestern University's Full Stack Web Development boot camp
-- 💞️ I’m looking to network with other female devs
-- 📫 How to reach me: [@jenniwritescode](https://twitter.com/jenniwritescode) on Twitter or [find me on LinkedIn](https://linkedin.com/in/jennihartman)
+- 💻 I currently work as a senior site reliability engineer in higher education
+- 🌱 I’m working through a coding bootcamp to learn more about different frameworks and languages
+- 💰 I am interested in pay transparency and equality in tech
+- 💞️ I’m looking to network with other women in tech
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jennihartman)
 
 <!---
 jenniwritescode/jenniwritescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
