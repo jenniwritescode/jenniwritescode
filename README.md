@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jenni!
-- 🖥️ I am a senior site reliability engineer
-- 🌱 I am currently working though a coding bootcamp curriculum to learn more about different frameworks and languages
+- 🖥️ I am a lead site reliability engineer
 - 💰 I am interested in pay transparency and equality in tech
 - 💞️ I’m looking to network with other female tech professionals
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jennihartman)
