@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jenni!
-- 🖥️ I am a lead site reliability engineer
-- 💰 I am interested in pay transparency and equality in tech
-- 💞️ I’m looking to network with other female tech professionals
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jennihartman)
+- 🖥️ I am a systems engineer.
+- 💰 I am interested in pay transparency and equality in tech.
+- 💞️ I’m looking to network with other female tech professionals.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jennihartman).
 
 <!---
 jenniwritescode/jenniwritescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
